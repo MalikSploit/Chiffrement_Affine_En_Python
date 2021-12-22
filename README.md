@@ -1,4 +1,4 @@
-# Chiffrement Affine En Python
+# Chiffrement Affine En Python3
 Programme de chiffrement et déchiffrement affine d'un message en python3.
 
 # Explication du chiffrement affine avec complexité O(n2)
